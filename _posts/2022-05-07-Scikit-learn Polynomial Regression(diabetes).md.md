@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Polynomial Regression 실습(diabetes)"
+---
+
+
 ```python
 from sklearn import datasets
 from sklearn.preprocessing import PolynomialFeatures
